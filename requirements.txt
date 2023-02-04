@@ -1,0 +1,4 @@
+Django==3.2.6
+psycopg2>=2.8
+djangorestframework
+gunicorn>=20.1.0
